@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: #FFFC00;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#barra_pesquisa{
+    background-color: #191919;
+    color: #FFFC00;
+    font-style: #191919;
+    width: 300px;
+    height: auto;
+    align-self: center;
+}
+
+body{
+    background-color: #191919;
+    font-family: 'Mulish', sans-serif;
+}
+
+.carousel-inner{
+    margin: 0px auto;
+    padding: 10px;
+    width: 70%;
+    height: auto;
+}
+
+#text-slide{
+    background-color: rgba(25, 25, 25, .8);
+    margin: -20px -20%;
+}
+
+h2{
+    text-align: center;
+    color: #FFFC00;
+    padding: 10px;
+}
+
+#card{
+    margin: 10px auto;
+    padding: 15px;
+    width: 60%;
+    height: auto;
+}
+
+#nav-tab {
+    margin-top: -17px;
+    margin-bottom: 10px;
+    background-color: #FFF;
+}
+
+#text{
+    text-align: justify;
+    margin-bottom: -10px;
+}
+
+#botoes{
+    margin: 20px 28px;
+}
+
+#card img{
+    width: 240px;
+    height: auto;
+    border-radius: 2px;
+}
