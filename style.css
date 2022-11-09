@@ -9,13 +9,22 @@ nav{
     font-weight: bold;
 }
 
+#logo{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
 #barra_pesquisa{
     background-color: #191919;
     color: #FFFC00;
     font-style: #191919;
-    width: 300px;
+    width: 500px;
     height: auto;
     align-self: center;
+}
+
+#btn-busca{
+    margin-right: 15%;
 }
 
 body{
